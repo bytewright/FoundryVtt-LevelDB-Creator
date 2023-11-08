@@ -1,0 +1,5 @@
+{
+  "head": "<div class=\"table-overflow-wrapper\"><table class=\"table-compendium table--left-all table--equipment\"><thead><tr><th>Level</th><th>Feature</th></tr></thead><tbody>",
+  "body": "<tr><td>Level: LEVEL_PLACEHOLDER</td><td>COMPENDIUM_LINK_PLACEHOLDER</td></tr>",
+  "footer": "</tbody></table></div>"
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "",
+  "type": "ItemGrant",
+  "level": 1,
+  "title": "",
+  "configuration": {
+    "items": [
+
+    ],
+    "optional": false,
+    "spell": {
+      "ability": "",
+      "preparation": "",
+      "uses": {
+        "max": "",
+        "per": ""
+      }
+    }
+  },
+  "value": {}
+}

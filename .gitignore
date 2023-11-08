@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+**/*.class
+.classpath
 
 # Log file
 *.log
@@ -22,3 +24,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+**/.idea/
+**/venv/
+**/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+unpack/
+unpacked/
+packs/lvldb/
+package.zip
+*.iml
+.idea/
